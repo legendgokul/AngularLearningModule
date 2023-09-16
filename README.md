@@ -39,7 +39,7 @@ Add a responsive layout for various screen sizes.
 
 ##Interactive Quiz App:
 
-###Requirements:
+### Requirements:
 
 Create a quiz with multiple-choice questions on a specific topic.
 Fetch quiz questions from a public API (e.g., Open Trivia Database).
